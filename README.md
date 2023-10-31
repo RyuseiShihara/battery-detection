@@ -12,7 +12,7 @@
 
 ![image](https://github.com/RyuseiShihara/battery-detection/assets/69947656/6edcb8c2-6b6e-453c-a002-314774e5b39b)
 
-カメラを一台で稼働させたときの検出デモ動画
+カメラを一台で稼働させたときの検出デモ動画<br>
 https://youtu.be/ejrdylKwFbM
 
 電子情報通信学会の研究会で口述発表を9月に行いました<br>

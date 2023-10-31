@@ -6,4 +6,4 @@
 
 
 
-[JAWS原稿.pdf](https://github.com/RyuseiShihara/battery-detection/files/13212048/JAWS.pdf)
+[学会発表資料.pdf](https://github.com/RyuseiShihara/battery-detection/files/13212048/JAWS.pdf)
